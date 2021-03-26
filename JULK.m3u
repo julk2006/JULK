@@ -1,0 +1,531 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", LA 1 HD
+http://192.168.1.4:8001/1:0:19:7863:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" tvg-shift="0" group-title="(no name)", LA 2
+http://192.168.1.4:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", ANTENA 3 HD
+http://192.168.1.4:8001/1:0:19:7534:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" tvg-shift="0" group-title="(no name)", CUATRO HD
+http://192.168.1.4:8001/1:0:19:7535:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" tvg-shift="0" group-title="(no name)", TELECINCO HD
+http://192.168.1.4:8001/1:0:19:7536:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" tvg-shift="0" group-title="(no name)", LA SEXTA HD
+http://192.168.1.4:8001/1:0:19:7537:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TVGA HD EUROPA" tvg-logo="" tvg-shift="0" group-title="(no name)", TVGA HD EUROPA
+http://192.168.1.4:8001/1:0:1:18F1:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" tvg-shift="0" group-title="(no name)", CLAN TVE
+http://192.168.1.4:8001/1:0:1:76C1:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" tvg-shift="0" group-title="(no name)", NOVA
+http://192.168.1.4:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" tvg-shift="0" group-title="(no name)", NEOX
+http://192.168.1.4:8001/1:0:1:75FE:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV INT" tvg-logo="" tvg-shift="0" group-title="(no name)", ARAGON TV INT
+http://192.168.1.4:8001/1:0:1:7473:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" tvg-shift="0" group-title="(no name)", CANAL SUR A.
+http://192.168.1.4:8001/1:0:1:7729:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA SAT" tvg-logo="" tvg-shift="0" group-title="(no name)", EXTREMADURA SAT
+http://192.168.1.4:8001/1:0:1:18F0:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Cine ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Cine ----------
+http://192.168.1.4:8001/1:64:171:0:0:0:0:0:0:0::---------- Cine ----------
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOSHD" tvg-logo="" tvg-shift="0" group-title="(no name)", M.ESTRENOSHD
+http://192.168.1.4:8001/1:0:19:7539:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&amp;Roll" tvg-logo="" tvg-shift="0" group-title="(no name)", M.CineDoc&amp;Roll
+http://192.168.1.4:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCIÓN HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. ACCIÓN HD
+http://192.168.1.4:8001/1:0:19:7509:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M.COMEDIA HD
+http://192.168.1.4:8001/1:0:19:7857:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DRAMA HD
+http://192.168.1.4:8001/1:0:19:750B:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Español" tvg-logo="" tvg-shift="0" group-title="(no name)", M. Cine Español
+http://192.168.1.4:8001/1:0:1:7736:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOODHD" tvg-logo="" tvg-shift="0" group-title="(no name)", HOLLYWOODHD
+http://192.168.1.4:8001/1:0:19:750C:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" tvg-shift="0" group-title="(no name)", TCM HD
+http://192.168.1.4:8001/1:0:19:7885:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" tvg-shift="0" group-title="(no name)", TNT HD
+http://192.168.1.4:8001/1:0:19:7888:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" tvg-shift="0" group-title="(no name)", PARAMOUNT
+http://192.168.1.4:8001/1:0:1:75F9:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Entretenimiento ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Entretenimiento ----------
+http://192.168.1.4:8001/1:64:172:0:0:0:0:0:0:0::---------- Entretenimiento ----------
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", #0 HD
+http://192.168.1.4:8001/1:0:19:788C:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. SERIES HD
+http://192.168.1.4:8001/1:0:19:7882:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M.Seriesmania HD
+http://192.168.1.4:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. Oscars" tvg-logo="" tvg-shift="0" group-title="(no name)", M. Oscars
+http://192.168.1.4:8001/1:0:1:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" tvg-shift="0" group-title="(no name)", FOX HD
+http://192.168.1.4:8001/1:0:19:7504:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" tvg-shift="0" group-title="(no name)", FOX LIFE HD
+http://192.168.1.4:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" tvg-shift="0" group-title="(no name)", AMC HD
+http://192.168.1.4:8001/1:0:19:7533:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" tvg-shift="0" group-title="(no name)", AXN HD
+http://192.168.1.4:8001/1:0:19:7856:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" tvg-shift="0" group-title="(no name)", AXN WHITE HD
+http://192.168.1.4:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" tvg-shift="0" group-title="(no name)", SYFY HD
+http://192.168.1.4:8001/1:0:19:7825:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", CALLE 13 HD
+http://192.168.1.4:8001/1:0:19:7824:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" tvg-shift="0" group-title="(no name)", BLAZE
+http://192.168.1.4:8001/1:0:1:772D:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRALHD" tvg-logo="" tvg-shift="0" group-title="(no name)", COMEDYCENTRALHD
+http://192.168.1.4:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" tvg-shift="0" group-title="(no name)", BE MAD
+http://192.168.1.4:8001/1:0:1:74A8:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" tvg-shift="0" group-title="(no name)", COSMO HD
+http://192.168.1.4:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" tvg-shift="0" group-title="(no name)", FDF
+http://192.168.1.4:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" tvg-shift="0" group-title="(no name)", CANAL COCINA
+http://192.168.1.4:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" tvg-shift="0" group-title="(no name)", DIVINITY
+http://192.168.1.4:8001/1:0:1:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" tvg-shift="0" group-title="(no name)", ENERGY
+http://192.168.1.4:8001/1:0:1:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" tvg-shift="0" group-title="(no name)", SUNDANCE TV
+http://192.168.1.4:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" tvg-shift="0" group-title="(no name)", TOROS HD
+http://192.168.1.4:8001/1:0:19:782D:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="PORTADA" tvg-logo="" tvg-shift="0" group-title="(no name)", PORTADA
+http://192.168.1.4:8001/1:0:1:759C:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Deportes ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Deportes ----------
+http://192.168.1.4:8001/1:64:173:0:0:0:0:0:0:0::---------- Deportes ----------
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOSHD" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOSHD
+http://192.168.1.4:8001/1:0:19:7508:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOS BAR
+http://192.168.1.4:8001/1:0:1:778E:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR1" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOS BAR1
+http://192.168.1.4:8001/1:0:1:756C:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR2" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOS BAR2
+http://192.168.1.4:8001/1:0:1:7584:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" tvg-shift="0" group-title="(no name)", TELEDEPORTE
+http://192.168.1.4:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEONES
+http://192.168.1.4:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON1
+http://192.168.1.4:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON2
+http://192.168.1.4:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON3" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON3
+http://192.168.1.4:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON4" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON4
+http://192.168.1.4:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON5" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON5
+http://192.168.1.4:8001/1:0:1:757D:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON6" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON6
+http://192.168.1.4:8001/1:0:1:757C:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON7" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON7
+http://192.168.1.4:8001/1:0:1:7583:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON8" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON8
+http://192.168.1.4:8001/1:0:1:7576:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga HD
+http://192.168.1.4:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 1 HD
+http://192.168.1.4:8001/1:0:19:74FF:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 2 HD
+http://192.168.1.4:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 3 HD
+http://192.168.1.4:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 4
+http://192.168.1.4:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 5" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 5
+http://192.168.1.4:8001/1:0:1:7579:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 6" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 6
+http://192.168.1.4:8001/1:0:1:757E:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 7
+http://192.168.1.4:8001/1:0:1:756E:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 8" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 8
+http://192.168.1.4:8001/1:0:1:7690:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 9" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 9
+http://192.168.1.4:8001/1:0:1:7581:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 10" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 10
+http://192.168.1.4:8001/1:0:1:7578:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATV BAR
+http://192.168.1.4:8001/1:0:19:7859:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR1" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATVBAR1
+http://192.168.1.4:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR2" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATVBAR2
+http://192.168.1.4:8001/1:0:1:769A:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR3" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATVBAR3
+http://192.168.1.4:8001/1:0:1:7574:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR4" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATVBAR4
+http://192.168.1.4:8001/1:0:1:7582:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="R. MADRID TV" tvg-logo="" tvg-shift="0" group-title="(no name)", R. MADRID TV
+http://192.168.1.4:8001/1:0:1:7798:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="BARÇA TV" tvg-logo="" tvg-shift="0" group-title="(no name)", BARÇA TV
+http://192.168.1.4:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" tvg-shift="0" group-title="(no name)", GOL
+http://192.168.1.4:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1HD" tvg-logo="" tvg-shift="0" group-title="(no name)", EUROSPORT1HD
+http://192.168.1.4:8001/1:0:19:7826:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" tvg-shift="0" group-title="(no name)", EUROSPORT 2
+http://192.168.1.4:8001/1:0:1:74A7:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="" tvg-shift="0" group-title="(no name)", MULTIDEPORTE
+http://192.168.1.4:8001/1:0:1:7692:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTESHD
+http://192.168.1.4:8001/1:0:19:7828:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES1HD
+http://192.168.1.4:8001/1:0:19:7532:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES2" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES2
+http://192.168.1.4:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES3" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES3
+http://192.168.1.4:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES4" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES4
+http://192.168.1.4:8001/1:0:1:77C8:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES5" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES5
+http://192.168.1.4:8001/1:0:1:7577:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x769e" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x769e
+http://192.168.1.4:8001/1:0:1:769E:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x7693" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x7693
+http://192.168.1.4:8001/1:0:1:7693:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" tvg-shift="0" group-title="(no name)", M. GOLF HD
+http://192.168.1.4:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN F1 HD
+http://192.168.1.4:8001/1:0:19:7531:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 1 HD
+http://192.168.1.4:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 2 HD
+http://192.168.1.4:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 3 HD
+http://192.168.1.4:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 4 HD
+http://192.168.1.4:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Cultura ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Cultura ----------
+http://192.168.1.4:8001/1:64:174:0:0:0:0:0:0:0::---------- Cultura ----------
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" tvg-shift="0" group-title="(no name)", CANAL ODISEA
+http://192.168.1.4:8001/1:0:1:778A:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" tvg-shift="0" group-title="(no name)", NAT GEO HD
+http://192.168.1.4:8001/1:0:19:7829:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" tvg-shift="0" group-title="(no name)", NG WILD HD
+http://192.168.1.4:8001/1:0:19:7889:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" tvg-shift="0" group-title="(no name)", DISCOVERY
+http://192.168.1.4:8001/1:0:1:772F:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+INVES" tvg-logo="" tvg-shift="0" group-title="(no name)", CRIMEN+INVES
+http://192.168.1.4:8001/1:0:1:7732:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" tvg-shift="0" group-title="(no name)", HISTORIA
+http://192.168.1.4:8001/1:0:1:7731:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" tvg-shift="0" group-title="(no name)", CANAL DECASA
+http://192.168.1.4:8001/1:0:1:7795:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" tvg-shift="0" group-title="(no name)", CAZAyPESCA HD
+http://192.168.1.4:8001/1:0:19:788D:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" tvg-shift="0" group-title="(no name)", IBERALIA TV
+http://192.168.1.4:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" tvg-shift="0" group-title="(no name)", VIAJAR HD
+http://192.168.1.4:8001/1:0:19:7884:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="RT Esp HD" tvg-logo="" tvg-shift="0" group-title="(no name)", RT Esp HD
+http://192.168.1.4:8001/1:0:1:18EE:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Música ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Música ----------
+http://192.168.1.4:8001/1:64:175:0:0:0:0:0:0:0::---------- Música ----------
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÑA" tvg-logo="" tvg-shift="0" group-title="(no name)", MTV ESPAÑA
+http://192.168.1.4:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" tvg-shift="0" group-title="(no name)", VH1
+http://192.168.1.4:8001/1:0:1:6FF0:436:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" tvg-shift="0" group-title="(no name)", MEZZO LIVE HD
+http://192.168.1.4:8001/1:0:19:7823:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="" tvg-shift="0" group-title="(no name)", CLASSICA
+http://192.168.1.4:8001/1:0:1:7602:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Niños ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Niños ----------
+http://192.168.1.4:8001/1:64:176:0:0:0:0:0:0:0::---------- Niños ----------
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DISNEY CH HD
+http://192.168.1.4:8001/1:0:19:788B:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="" tvg-shift="0" group-title="(no name)", Disney+
+http://192.168.1.4:8001/1:0:1:7607:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" tvg-shift="0" group-title="(no name)", DISNEY JR
+http://192.168.1.4:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" tvg-shift="0" group-title="(no name)", BOING
+http://192.168.1.4:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="" tvg-shift="0" group-title="(no name)", NICKELODEONHD
+http://192.168.1.4:8001/1:0:19:7820:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" tvg-shift="0" group-title="(no name)", NICK JR
+http://192.168.1.4:8001/1:0:1:7697:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" tvg-shift="0" group-title="(no name)", CANAL PANDA
+http://192.168.1.4:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" tvg-shift="0" group-title="(no name)", BabyTV
+http://192.168.1.4:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD" tvg-logo="" tvg-shift="0" group-title="(no name)", DreamWorks HD
+http://192.168.1.4:8001/1:0:19:750D:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Noticias ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Noticias ----------
+http://192.168.1.4:8001/1:64:177:0:0:0:0:0:0:0::---------- Noticias ----------
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" tvg-shift="0" group-title="(no name)", 24 HORAS
+http://192.168.1.4:8001/1:0:1:7738:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" tvg-shift="0" group-title="(no name)", FOX NEWS
+http://192.168.1.4:8001/1:0:1:749B:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="----------Servicio ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ----------Servicio ----------
+http://192.168.1.4:8001/1:64:178:0:0:0:0:0:0:0::----------Servicio ----------
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" tvg-shift="0" group-title="(no name)", LA 1
+http://192.168.1.4:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" tvg-shift="0" group-title="(no name)", ANTENA 3
+http://192.168.1.4:8001/1:0:1:772C:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="" tvg-shift="0" group-title="(no name)", CUATRO
+http://192.168.1.4:8001/1:0:1:7792:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="" tvg-shift="0" group-title="(no name)", TELECINCO
+http://192.168.1.4:8001/1:0:1:778C:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="" tvg-shift="0" group-title="(no name)", LA SEXTA
+http://192.168.1.4:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS" tvg-logo="" tvg-shift="0" group-title="(no name)", M. ESTRENOS
+http://192.168.1.4:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.CineDoc&amp;Roll" tvg-logo="" tvg-shift="0" group-title="(no name)", M.CineDoc&amp;Roll
+http://192.168.1.4:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCIÓN" tvg-logo="" tvg-shift="0" group-title="(no name)", M. ACCIÓN
+http://192.168.1.4:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA" tvg-logo="" tvg-shift="0" group-title="(no name)", M. COMEDIA
+http://192.168.1.4:8001/1:0:1:746D:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DRAMA
+http://192.168.1.4:8001/1:0:1:746E:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" tvg-shift="0" group-title="(no name)", HOLLYWOOD
+http://192.168.1.4:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" tvg-shift="0" group-title="(no name)", TCM
+http://192.168.1.4:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" tvg-shift="0" group-title="(no name)", TNT
+http://192.168.1.4:8001/1:0:1:76CB:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" tvg-shift="0" group-title="(no name)", #0
+http://192.168.1.4:8001/1:0:1:7478:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES" tvg-logo="" tvg-shift="0" group-title="(no name)", M. SERIES
+http://192.168.1.4:8001/1:0:1:7696:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIESMANIA" tvg-logo="" tvg-shift="0" group-title="(no name)", M. SERIESMANIA
+http://192.168.1.4:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" tvg-shift="0" group-title="(no name)", FOX
+http://192.168.1.4:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" tvg-shift="0" group-title="(no name)", FOX LIFE
+http://192.168.1.4:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" tvg-shift="0" group-title="(no name)", AMC
+http://192.168.1.4:8001/1:0:1:76CF:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" tvg-shift="0" group-title="(no name)", AXN
+http://192.168.1.4:8001/1:0:1:7477:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="" tvg-shift="0" group-title="(no name)", AXN WHITE
+http://192.168.1.4:8001/1:0:1:7471:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" tvg-shift="0" group-title="(no name)", SYFY
+http://192.168.1.4:8001/1:0:1:7796:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" tvg-shift="0" group-title="(no name)", CALLE 13
+http://192.168.1.4:8001/1:0:1:7790:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" tvg-shift="0" group-title="(no name)", COMEDY CENTRAL
+http://192.168.1.4:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="" tvg-shift="0" group-title="(no name)", DreamWorks
+http://192.168.1.4:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" tvg-shift="0" group-title="(no name)", COSMO
+http://192.168.1.4:8001/1:0:1:7730:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="" tvg-shift="0" group-title="(no name)", TOROS
+http://192.168.1.4:8001/1:0:1:7570:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES
+http://192.168.1.4:8001/1:0:1:778F:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOSHD" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOSHD
+http://192.168.1.4:8001/1:0:19:750A:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOS
+http://192.168.1.4:8001/1:0:1:7734:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="" tvg-shift="0" group-title="(no name)", #VAMOS
+http://192.168.1.4:8001/1:0:1:7733:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEONES
+http://192.168.1.4:8001/1:0:1:757B:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON1
+http://192.168.1.4:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON2
+http://192.168.1.4:8001/1:0:1:760A:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga
+http://192.168.1.4:8001/1:0:1:7797:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 1
+http://192.168.1.4:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 2
+http://192.168.1.4:8001/1:0:1:77BD:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3" tvg-logo="" tvg-shift="0" group-title="(no name)", M. LaLiga 3
+http://192.168.1.4:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="" tvg-shift="0" group-title="(no name)", LALIGATV BAR
+http://192.168.1.4:8001/1:0:1:7793:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" tvg-shift="0" group-title="(no name)", EUROSPORT 1
+http://192.168.1.4:8001/1:0:1:74A1:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="" tvg-shift="0" group-title="(no name)", MULTIDEPORTE
+http://192.168.1.4:8001/1:0:1:76A3:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES1
+http://192.168.1.4:8001/1:0:1:7739:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF" tvg-logo="" tvg-shift="0" group-title="(no name)", M. GOLF
+http://192.168.1.4:8001/1:0:1:7789:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN F1
+http://192.168.1.4:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 1
+http://192.168.1.4:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 2
+http://192.168.1.4:8001/1:0:1:772A:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 3
+http://192.168.1.4:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" tvg-shift="0" group-title="(no name)", DAZN 4
+http://192.168.1.4:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPH" tvg-logo="" tvg-shift="0" group-title="(no name)", NAT GEOGRAPH
+http://192.168.1.4:8001/1:0:1:778D:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" tvg-shift="0" group-title="(no name)", NAT GEO WILD
+http://192.168.1.4:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" tvg-shift="0" group-title="(no name)", CAZA Y PESCA
+http://192.168.1.4:8001/1:0:1:772B:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="" tvg-shift="0" group-title="(no name)", VIAJAR
+http://192.168.1.4:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="RT Esp HD" tvg-logo="" tvg-shift="0" group-title="(no name)", RT Esp HD
+http://192.168.1.4:8001/1:0:1:18F8:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" tvg-shift="0" group-title="(no name)", MEZZO
+http://192.168.1.4:8001/1:0:1:7699:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH." tvg-logo="" tvg-shift="0" group-title="(no name)", DISNEY CH.
+http://192.168.1.4:8001/1:0:1:76C3:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" tvg-shift="0" group-title="(no name)", NICKELODEON
+http://192.168.1.4:8001/1:0:1:772E:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Interactivos ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Interactivos ----------
+http://192.168.1.4:8001/1:64:179:0:0:0:0:0:0:0::---------- Interactivos ----------
+#EXTINF:-1 tvg-id="" tvg-name="BAJO DEMANDA" tvg-logo="" tvg-shift="0" group-title="(no name)", BAJO DEMANDA
+http://192.168.1.4:8001/1:0:1:759E:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="CONTRATO" tvg-logo="" tvg-shift="0" group-title="(no name)", CONTRATO
+http://192.168.1.4:8001/1:0:1:75D9:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="Descarga Cisco" tvg-logo="" tvg-shift="0" group-title="(no name)", Descarga Cisco
+http://192.168.1.4:8001/1:0:1:74D0:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="GUÍA" tvg-logo="" tvg-shift="0" group-title="(no name)", GUÍA
+http://192.168.1.4:8001/1:0:1:75A9:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="GUÍA FÁCIL" tvg-logo="" tvg-shift="0" group-title="(no name)", GUÍA FÁCIL
+http://192.168.1.4:8001/1:0:1:75F6:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="PORTADA" tvg-logo="" tvg-shift="0" group-title="(no name)", PORTADA
+http://192.168.1.4:8001/1:0:1:75C6:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Test ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Test ----------
+http://192.168.1.4:8001/1:64:17A:0:0:0:0:0:0:0::---------- Test ----------
+#EXTINF:-1 tvg-id="" tvg-name="TEST TÉCNICO" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST TÉCNICO
+http://192.168.1.4:8001/1:0:1:75DD:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST_CSD1" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST_CSD1
+http://192.168.1.4:8001/1:0:1:75DE:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST_CSD2" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST_CSD2
+http://192.168.1.4:8001/1:0:1:75DF:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST_CSD3" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST_CSD3
+http://192.168.1.4:8001/1:0:1:75E0:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST_CSD4" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST_CSD4
+http://192.168.1.4:8001/1:0:1:75E1:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST_CSD5" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST_CSD5
+http://192.168.1.4:8001/1:0:1:75E2:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST F1" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST F1
+http://192.168.1.4:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEST Z" tvg-logo="" tvg-shift="0" group-title="(no name)", TEST Z
+http://192.168.1.4:8001/1:0:1:7691:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10729V SID 0x7853" tvg-logo="" tvg-shift="0" group-title="(no name)", 10729V SID 0x7853
+http://192.168.1.4:8001/1:0:1:7853:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10729V SID 0x785a" tvg-logo="" tvg-shift="0" group-title="(no name)", 10729V SID 0x785a
+http://192.168.1.4:8001/1:0:1:785A:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10729V SID 0x7861" tvg-logo="" tvg-shift="0" group-title="(no name)", 10729V SID 0x7861
+http://192.168.1.4:8001/1:0:1:7861:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10729V SID 0x7864" tvg-logo="" tvg-shift="0" group-title="(no name)", 10729V SID 0x7864
+http://192.168.1.4:8001/1:0:1:7864:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES5" tvg-logo="" tvg-shift="0" group-title="(no name)", M. DEPORTES5
+http://192.168.1.4:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON7" tvg-logo="" tvg-shift="0" group-title="(no name)", M.LCAMPEON7
+http://192.168.1.4:8001/1:0:1:769C:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x769d" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x769d
+http://192.168.1.4:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x769f" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x769f
+http://192.168.1.4:8001/1:0:1:769F:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x76a6" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x76a6
+http://192.168.1.4:8001/1:0:1:76A6:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10847V SID 0x759b" tvg-logo="" tvg-shift="0" group-title="(no name)", 10847V SID 0x759b
+http://192.168.1.4:8001/1:0:1:759B:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10847V SID 0x75f4" tvg-logo="" tvg-shift="0" group-title="(no name)", 10847V SID 0x75f4
+http://192.168.1.4:8001/1:0:1:75F4:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x756b" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x756b
+http://192.168.1.4:8001/1:0:1:756B:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x756d" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x756d
+http://192.168.1.4:8001/1:0:1:756D:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7573" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7573
+http://192.168.1.4:8001/1:0:1:7573:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7575" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7575
+http://192.168.1.4:8001/1:0:1:7575:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x757a" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x757a
+http://192.168.1.4:8001/1:0:1:757A:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x757f" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x757f
+http://192.168.1.4:8001/1:0:1:757F:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7580" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7580
+http://192.168.1.4:8001/1:0:1:7580:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7585" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7585
+http://192.168.1.4:8001/1:0:1:7585:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7586" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7586
+http://192.168.1.4:8001/1:0:1:7586:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7587" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7587
+http://192.168.1.4:8001/1:0:1:7587:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11097V SID 0x7588" tvg-logo="" tvg-shift="0" group-title="(no name)", 11097V SID 0x7588
+http://192.168.1.4:8001/1:0:1:7588:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x75fd" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x75fd
+http://192.168.1.4:8001/1:0:1:75FD:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x75ff" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x75ff
+http://192.168.1.4:8001/1:0:1:75FF:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x7600" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x7600
+http://192.168.1.4:8001/1:0:1:7600:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x7604" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x7604
+http://192.168.1.4:8001/1:0:1:7604:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x7606" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x7606
+http://192.168.1.4:8001/1:0:1:7606:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="11685V SID 0x760c" tvg-logo="" tvg-shift="0" group-title="(no name)", 11685V SID 0x760c
+http://192.168.1.4:8001/1:0:1:760C:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75A6:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75AA:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75AB:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75AF:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75C7:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75CA:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75CF:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75E3:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75EE:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75EF:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75F1:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75F2:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75F3:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="(...)" tvg-logo="" tvg-shift="0" group-title="(no name)", (...)
+http://192.168.1.4:8001/1:0:1:75F5:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="." tvg-logo="" tvg-shift="0" group-title="(no name)", .
+http://192.168.1.4:8001/1:0:1:75FB:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Pay per view ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Pay per view ----------
+http://192.168.1.4:8001/1:64:17B:0:0:0:0:0:0:0::---------- Pay per view ----------
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER
+http://192.168.1.4:8001/1:0:1:75B0:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER
+http://192.168.1.4:8001/1:0:1:75B2:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER HD" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER HD
+http://192.168.1.4:8001/1:0:19:7854:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 1
+http://192.168.1.4:8001/1:0:1:768E:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 2 HD
+http://192.168.1.4:8001/1:0:19:785E:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="10788V SID 0x768f" tvg-logo="" tvg-shift="0" group-title="(no name)", 10788V SID 0x768f
+http://192.168.1.4:8001/1:0:1:768F:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 3
+http://192.168.1.4:8001/1:0:1:7567:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 4
+http://192.168.1.4:8001/1:0:1:756F:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 5
+http://192.168.1.4:8001/1:0:1:7565:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER 6
+http://192.168.1.4:8001/1:0:1:7566:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="---------- Adultos ----------" tvg-logo="" tvg-shift="0" group-title="(no name)", ---------- Adultos ----------
+http://192.168.1.4:8001/1:64:17C:0:0:0:0:0:0:0::---------- Adultos ----------
+#EXTINF:-1 tvg-id="" tvg-name="ALQ XXHARD" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQ XXHARD
+http://192.168.1.4:8001/1:0:1:756A:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER X" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER X
+http://192.168.1.4:8001/1:0:1:7568:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER XX" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER XX
+http://192.168.1.4:8001/1:0:1:7569:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER XY" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER XY
+http://192.168.1.4:8001/1:0:1:7695:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER X 2" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER X 2
+http://192.168.1.4:8001/1:0:1:7562:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER X 3" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER X 3
+http://192.168.1.4:8001/1:0:1:7571:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER X 4" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILER X 4
+http://192.168.1.4:8001/1:0:1:7563:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILERXY 2" tvg-logo="" tvg-shift="0" group-title="(no name)", ALQUILERXY 2
+http://192.168.1.4:8001/1:0:1:7572:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV" tvg-logo="" tvg-shift="0" group-title="(no name)", PLAYBOY TV
+http://192.168.1.4:8001/1:0:1:778B:424:1:C00000:0:0:0:
